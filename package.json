@@ -7,12 +7,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-last-updated": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
     "vuepress": "^1.8.2",
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
+    "vuepress-plugin-zooming": "^1.1.8",
     "vuepress-theme-vdoing": "^1.8.3"
   },
   "scripts": {
-	"dev": "vuepress dev docs",
-	"build": "vuepress build docs",
-	"test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
