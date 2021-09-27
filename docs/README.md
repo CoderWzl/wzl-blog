@@ -9,7 +9,7 @@ features: # 显示在主页的分类
 - title: 重学Android
   details: Java、Kotlin、Android基础、Jetpack
   link: /android/
-  imgUrl: /images/icon_java.jpg # 图片以 docs/.vuepress/public 为根节点
+  imgUrl: /images/ic_android.svg # 图片以 docs/.vuepress/public 为根节点
 - title: 学习笔记
   details: 框架、扩展学习
   link: /note/
